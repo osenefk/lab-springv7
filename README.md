@@ -1,7 +1,7 @@
 # lab-springv7
 Ce projet est géré par Maven. 
 Il mette en oeuvre d'une part l'injection de dependances via la specification CDI avec l'annotation @Inject.
-Et d'autre part,le projet Spring data pour simplifier la creation du DAO
+Et d'autre part,le projet Spring data pour simplifier la creation du DAO.
 Les annotations utilisés tels que @Name et @Inject sont dits standards.
 L'application est repartie en trois couches à savoir :
 - La couche persistence : contient les classes POJO
